@@ -1,4 +1,4 @@
 service:
-  name: service a(dev)
+  name: service a(dev+test)
 
 
